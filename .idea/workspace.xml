@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2472c7b6-1f31-420a-9d8c-f21e65df9453" name="Changes" comment="Projeto do Modulo2" />
+    <list default="true" id="2472c7b6-1f31-420a-9d8c-f21e65df9453" name="Changes" comment="Projeto do Modulo2">
+      <change beforePath="$PROJECT_DIR$/src/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Postagens/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RedeSocial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RedeSocial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Perfis/Usuario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671333108884</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Projeto do Modulo2">
+      <created>1671333362509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671333362509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,12 +88,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RedeSocial.java</url>
-          <line>74</line>
+          <line>76</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RedeSocial.java</url>
-          <line>29</line>
+          <line>31</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

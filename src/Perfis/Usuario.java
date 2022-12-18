@@ -1,3 +1,7 @@
+package Perfis;
+
+import Postagens.Posts;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,7 +37,7 @@ public class Usuario {
         this.senha = senha;
     }
 
-    protected List<Posts> postDoUsuario(String data, String hora, String conteudo){
+    public List<Posts> postDoUsuario(String data, String hora, String conteudo){
         Posts p = new Posts(data, hora, conteudo);
         data = p.getData();
         hora = p.getHora();
@@ -42,7 +46,7 @@ public class Usuario {
         return posts;
     }
 
-    protected void imprimirPosts(){
+    public void imprimirPosts(){
         System.out.println("-- TimeLine: -- \n");
         System.out.println("Nome: " + nome);
         for (Posts post : posts){

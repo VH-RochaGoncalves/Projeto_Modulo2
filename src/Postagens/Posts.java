@@ -1,3 +1,5 @@
+package Postagens;
+
 public class Posts {
     protected String data;
     protected String hora;
@@ -9,7 +11,7 @@ public class Posts {
         this.conteudo = conteudo;
     }
 
-    void imprimir(){
+    public void imprimir(){
         System.out.println("Data: " + data);
         System.out.println("Hora: " + hora );
         System.out.println("\n" + conteudo);
