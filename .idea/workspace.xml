@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2472c7b6-1f31-420a-9d8c-f21e65df9453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto_Modulo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Posts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RedeSocial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Usuario.java" afterDir="false" />
-    </list>
+    <list default="true" id="2472c7b6-1f31-420a-9d8c-f21e65df9453" name="Changes" comment="Projeto do Modulo2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +47,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671033925055</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto do Modulo2">
+      <created>1671333108884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671333108884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +67,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto do Modulo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto do Modulo2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
